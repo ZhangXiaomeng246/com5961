@@ -1,0 +1,143 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <title>News</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+
+<style >
+  .defaultStyle{
+    font: normal 12pt arial;
+    text-decoration: none;
+    background-color: #bbbbbb ! important;
+    line-height: 30px;
+  }
+  .newStyle{
+    font: italic 12pt arial;
+    text-decoration: underline;
+    background-color: yellow ! important;
+    line-height: 30px;
+  }
+  .myStyle{ border: solid;
+  font-family: arial;
+  left: 200px;top: 200px;
+   }
+</style>
+
+
+<script type="text/javascript">
+function sidebar2_onmouseover()
+{
+  var sidebar2= document.getElementById("sidebar2");
+sidebar2.className="newstyle";
+sidebar2.innerHTML="<h2>Be yourself.</h2><p>Always aim for the best!</p>";
+
+}
+
+　function sidebar2_onMouseover(){
+  var sidebar2= document.getElementById("sidebar2");
+  sidebar2.className= "defaultStyle";
+  sidebar2.innerHTML="<h2>Be yourself.</h2><p>see what can be shown here.</p>";
+}
+var x= document.createlement('div');
+x.innerHTML='<h2> Be yourself.</h2><p>Hello World!</p>';
+x.className='myStyle';
+
+
+</script>
+</head>
+
+<body>
+
+  <div class="abc">
+  <header>
+<h1>News</h1>
+  <p>Local and National News</p>
+    </header> 
+    </div>
+    
+  <nav>
+  <ul>
+
+     <li class="highlighted"><a href="home.html" onmouseover="sidebar2_onmouseover()" onmouseover="sidebar2_onmouseout()">Home</a></li> 
+     <li><a href="archive.html" onmouseover="sidebar2_onmouseover()" onmouseover="sidebar2_onmouseout()">Archive</a></li> 
+     <li><a href="about.html" onmouseover="sidebar2_onmouseover()" onmouseover="sidebar2_onmouseout()">About</a></li> 
+     </ul>
+     </nav>
+    
+    <main>
+  <section>
+    <h2 id ="local">Local News</h2>
+     
+  <article>
+   <header>
+     <h3>Fire fighters rescue man from building</h3>
+    <p>(author,date)</p>
+   </header>
+     <p>This is the story text.This is the story text.</p>
+    <p>This is the story text.This is the story text.</p>
+  </article>
+
+  <article>
+    <header>
+  <h3>New library to be built</h3>
+   <p>(author,date)</p> 
+      </header>
+    <p>This is the story text.This is the story text.</p>
+    <p>This is the story text.This is the story text.</p>
+    </article>
+    </section>
+    
+  <section>
+     <h2>National News</h2>
+     
+     <article>
+     <header>
+    <h3>Snow storm is making travel difficult</h3>
+    <p>(author,date)</p>
+      </header>
+    <p>This is the story text.This is the story text.</p>
+    <p>This is the story text.This is the story text.</p>
+</article>
+
+<article>
+      <header>
+     <h3>Thousands are without power</h3>
+   <p> (author,date)</p>
+        </header>
+    <p>This is the story text.This is the story text.</p>
+     <p>This is the story text.This is the story text.</p>
+    </article>
+  </section>
+</main>
+  
+  <aside>
+    <h3>Be a news reporter</h3>
+    <p>If you see news happening.Send us a text.</p>
+    </aside>
+    <aside id="sidebar2" class="defaultStyle">
+      <h3>Be your self</h3>
+    <p>See what can be shown here.</p>
+    </aside>
+
+    <aside>
+      <form name="myForm" action="/action_page_post.php" onsubmit="return validateForm()" method="post">
+       Enter: <input type="text" name="fname">
+       <a href="javascript: validateForm()">Submit</a>
+     </form>
+     
+<script type="text/javascript">
+function validateForm() {
+                var x = document.forms["myForm"]["fname"].value;
+                var sidebar2 = document.getElementById("sidebar2")
+                sidebar2.innerHTML = "<p> The value entered is：</p>"+x;
+              }
+</script>
+
+    </aside>
+  <footer>
+  <p>footer information </p>
+</footer>
+<script src="math_function.js" type="text/javascript"></script>
+    </body>
+</html>
