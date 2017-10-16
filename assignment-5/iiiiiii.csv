@@ -1,0 +1,26 @@
+company,Product,Number,city,geocode2,latitude and longitude,gender,initial and name
+phillips,radio,5,arnhem,"Groningensingel 147, arnhem, the netherlands","51.9560848, 5.907578099999999",m,p. jansen
+phillips,radio,43,arnhem,"Groningensingel 148, arnhem, the netherlands","51.95630370000001, 5.9073828",m,p. hansen
+phillips,computer,3,arnhem,"Groningensingel 149, arnhem, the netherlands",,m,j. Gansen
+phillips,computer,34,arnhem,"Groningensingel 150, arnhem, the netherlands","51.9563012, 5.907375099999999",m,p. mansen
+phillips,computer,12,arnhem,"Groningensingel 151, arnhem, the netherlands",,m,p. fransen
+phillips,radio,23,arnhem,"Groningensingel 152, arnhem, the netherlands",,m,p. franssen
+akzo,TV,43,arnhem,"Leeuwardenweg 178, arnhem, the netherlands","51.9472371, 5.90829",m,p. bansen
+akzo,TV,12,arnhem,"Leeuwardenweg 179, arnhem, the netherlands","51.9472371, 5.90829",m,p. vansen
+akzo,computer,5,arnhem,"Leeuwardenweg 180, arnhem, the netherlands","51.9472371, 5.90829",m,p. bransen
+akzo,radio,34,arnhem,"Leeuwardenweg 181, arnhem, the netherlands",,m,p. janssen
+akzo,Tablet,5,arnhem,"Leeuwardenweg 182, arnhem, the netherlands","51.9472371, 5.90829",f,l. rokken
+akzo,Tablet,9,arnhem,"Leeuwardenweg 183, arnhem, the netherlands",,f,l. lokken
+akzo,computer,8,arnhem,"Leeuwardenweg 184, arnhem, the netherlands","51.9472371, 5.90829",f,l. mokken
+phillips,radio,56,arnhem,"Delfzijlstraat 54, arnhem, the netherlands","51.95199119999999, 5.9002864",f,l. mokken
+phillips,TV,67,arnhem,"Delfzijlstraat 55, arnhem, the netherlands",,f,l. mokken
+phillips,TV,21,arnhem,"Delfzijlstraat 56, arnhem, the netherlands","51.95193709999999, 5.900343899999999",f,l. mokken
+Van Houten,computer,45,arnhem,"Delfzijlstraat 57, arnhem, the netherlands","51.9534423, 5.899386499999999",f,l. sokken
+Van Houten,TV,56,arnhem,"Delfzijlstraat 58, arnhem, the netherlands","51.9518919, 5.900401599999999",f,l. wokken
+Van Houten,TV,65,arnhem,"Delfzijlstraat 59, arnhem, the netherlands","51.95309049999999, 5.899673399999999",f,l. kokken
+Van Houten,computer,21,arnhem,"Delfzijlstraat 60, arnhem, the netherlands","51.9518468, 5.9004302",f,l. Bokken
+Van Houten,radio,23,arnhem,"Delfzijlstraat 61, arnhem, the netherlands","51.9530453, 5.899731099999999",f,l. dokken
+unilever,computer,3,arnhem,"Jourestraat 23, arnhem, the netherlands","51.9478369, 5.9083274",f,l. gokken
+unilever,Tablet,4,arnhem,"Jourestraat 24, arnhem, the netherlands",,f,l. stokken
+unilever,Tablet,6,arnhem,"Jourestraat 25, arnhem, the netherlands",,f,l. rokken
+unilever,Tablet,8,arnhem,"Jourestraat 26, arnhem, the netherlands",,f,l. rokken
