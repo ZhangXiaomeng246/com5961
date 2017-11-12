@@ -1,0 +1,309 @@
+{
+    "title": {
+        "background": {
+            "color": "#000000",
+            "opacity": 50,
+            "url": null
+        },
+        "text": {
+            "headline": "TimeLine Demo of Jay Chou",
+            "text": "A famous singer--Jay Chou, let's overview his works in the past 17 years!"
+        },
+        "media": {
+            "url": "http://ww1.sinaimg.cn/large/67f1ddaajw1dhcsfjckcoj.jpg",
+            "thumb": "http://ww1.sinaimg.cn/large/67f1ddaajw1dhcsfjckcoj.jpg"
+        }
+    },
+    "events": [{
+            "start_date": {
+                "year": "2000",
+                "month": "11",
+                "day": "06",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "url": "http://imgx.xiawu.com/xzimg/i4/i3/TB1LQ7hGXXXXXXIapXXXXXXXXXX_!!0-item_pic.jpg",
+                "thumb": "http://imgx.xiawu.com/xzimg/i4/i3/TB1LQ7hGXXXXXXIapXXXXXXXXXX_!!0-item_pic.jpg"
+            },
+            "text": {
+                "headline": "Jay",
+                "text": "Chou launched his debut album Jay under Alfa Music in 2000. The album was promoted heavily by Jacky Wu in the entertainment shows he hosted. Chou himself also appeared on a few television programs to promote the album. Chou was marketed as a talented singer-composer with a unique tune. His collaboration with Vincent Fang and Vivian Hsu on the release brought about a few hits."
+            },
+            "type": "overview"
+        },
+        {
+            "start_date": {
+                "year": "2001",
+                "month": "09",
+                "day": "14",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "url": "https://tse1.mm.bing.net/th?id=OIP.Nay3W30aAhr8MzickDZ0ggEGEs&pid=15.1",
+                "thumb": "https://tse1.mm.bing.net/th?id=OIP.Nay3W30aAhr8MzickDZ0ggEGEs&pid=15.1"
+            },
+            "text": {
+                "headline": "Fantasy",
+                "text": "Fantasy, which helped him become an established star. This album was released in September 2001 and became a big hit, selling an estimated two million copies in Taiwan alone. Fantasy helped Chou secure ten nominations and five wins at the 13th Golden Melody Awards in 2002."
+            },
+            "type": "overview"
+        },
+        {
+            "start_date": {
+                "year": "2002",
+                "month": "07",
+                "day": "18",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "The Eight Dimensions",
+                "credit": "Jay Chou",
+                "url": "https://tse2.mm.bing.net/th?id=OIP.3DJQyiVMX-eHjgYBq_nwYgEsEs&pid=15.1",
+                "thumb": "https://tse2.mm.bing.net/th?id=OIP.3DJQyiVMX-eHjgYBq_nwYgEsEs&pid=15.1"
+            },
+            "text": {
+                "headline": "The Eight Dimensions",
+                "text": "The Eight Dimensions, became another commercial success and is similar in style to his second. Another collaboration with Fang, The Eight Dimensions included songs that invoke imagery, Chou's mumbling style and mainly R&B tunes. "
+            },
+            "type": "overview"
+        },
+        {
+            "start_date": {
+                "year": "2003",
+                "month": "07",
+                "day": "31",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "url": "http://y1.ifengimg.com/haina/2015_19/00da8b5b96c1549.undefined",
+                "thumb": "http://y1.ifengimg.com/haina/2015_19/00da8b5b96c1549.undefined"
+            },
+            "text": {
+                "headline": "Yeh Hui-mei",
+                "text": "In 2003, Chou released his fourth album Yeh Hui-mei named after his own mother. After the release of this album, he attended the Golden Melody Awards for his previous album's nomination."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2004",
+                "month": "08",
+                "day": "03",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Jasmine",
+                "url": "https://www.youtube.com/watch?v=Bbp9ZaJD_eA"
+            },
+            "text": {
+                "headline": "Qilixiang",
+                "text": "In 2004, his album Qilixiang, or Jasmine, released by Sony Music, excelled in Taiwan, Hong Kong and People's Republic of China."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2005",
+                "month": "11",
+                "day": "01",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/November%27s_Chopin",
+                "thumb": "http://www.jay100.com/jay100/1024-768.jpg"
+            },
+            "text": {
+                "headline": "Chopin of November",
+                "text": "Chopin of November continued this record of success with sales of 2.5 million units in Asia."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2006",
+                "month": "09",
+                "day": "05",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Still Fantasy",
+                "url": "http://img06.taobaocdn.com/bao/uploaded/i4/i1/T1AoCmXghlXXbAaeoV_020306.jpg"
+            },
+            "text": {
+                "headline": "Still Fantasy",
+                "text": "The album features a duet (Faraway) with Taiwanese singer-songwriter Fei Yu-Ching.[3] The music videos for  (Twilight's Chapter Seven) and (Heart's Rain) were filmed on location in London, England.."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011",
+                "month": "11",
+                "day": "11",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Exclamation Point",
+                "url": "https://www.youtube.com/watch?v=JNS-KT_iwmg&list=PLIHwR_7iliPIYFO1DSNGVulkMD0CYn5rL"
+            },
+            "text": {
+                "headline": "Wow!",
+                "text": "Wow! was released with a bonus DVD containing the music videos of 驚嘆號 (Exclamation Point) and 迷魂曲 (Enchanting Melody). There are four versions to this album: basic, special, luxury, and USB editions."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2007",
+                "month": "10",
+                "day": "31",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Rainbow",
+                "url": "https://www.youtube.com/watch?v=WxZvXPTBC0A&list=PL6A6928E6BCB13385"
+            },
+            "text": {
+                "headline": "On the Run",
+                "text": "The album was promoted via Onda Media Players, in which part of his album cover was printed on the front, his signature on the Media Player itself, and in certain cases, a small selection of his songs and music videos are included on the media player."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2008",
+                "month": "10",
+                "day": "14",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Capricorn",
+                "url": "https://www.youtube.com/watch?v=6VRioN8euIs&list=PLXTbaKsGo8yRR_kEn4FvKO1ZY_ZbCnllh"
+            },
+            "text": {
+                "headline": "Capricorn",
+                "text": "The album broke Chou's previous record for pre-order sales, with more than 90,000 copies ordered. To thank the fans for their support, JVR Music decided to include gifts of Capricorn poker cards and calendar. This inclusion was cited to be the reason for the delay of the release date to 14 October 2008. On the day of its release 887,000 copies were shipped across Asia. ."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2010",
+                "month": "05",
+                "day": "18",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "The Era",
+                "url": "https://www.youtube.com/watch?v=-WkecBaA4z8"
+            },
+            "text": {
+                "headline": "The Era",
+                "text": "In order to prevent unauthorized duplication of the album, the manufacturing was outsourced to Sony Music Entertainment plants in China but because of their large orders they were unable to meet demands. The producers did not wish to outsource to another factory, because of insurance concerns and so that the album could be release on the same date throughout Asia; it was delayed from 14 May to 18 May."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "12",
+                "day": "28",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Opus 12",
+                "url": "http://4.bp.blogspot.com/-A0xnYjNJ_1o/UN16WXIbTZI/AAAAAAAAAWI/k-l6MYsn2VY/s1600/Cover.jpgY"
+            },
+            "text": {
+                "headline": "Opus 12",
+                "text": "Opus 12 is Jay Chou's twelfth Mandarin studio album."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2014",
+                "month": "12",
+                "day": "26",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Stolen Love",
+                "url": "https://www.youtube.com/watch?v=6ZeE3vgwQSI&list=PLgFC_SXvt6LmwjhH5Jq7UvICbnS3NNQwH"
+            },
+            "text": {
+                "headline": "Aiyo, Not Bad",
+                "text": "The album name comes from Jay Chou's pet phrase. Aiyo, is a commonly used slang in Chinese, which is either said when experiencing pain (similar to Ouch in English), or expressing that something was not expected. 鞋子特大號/ Extra Large Shoes), the hit song from the album, was first played on 5 December 2014, on the Taiwanese radio station Hit FM."
+            }
+        },
+        {
+            "background": {
+                "color": "#000000",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year": "2016",
+                "month": "06",
+                "day": "24",
+                "hour": "",
+                "minute": "",
+                "second": "",
+                "millisecond": "",
+                "format": ""
+            },
+            "media": {
+                "caption": "Jay Chou's Bedtime Stories",
+                "url": "https://www.youtube.com/watch?v=-7r6VqSllNg",
+                "thumb": "http://www.gangqinpu.com/pu/2016/6/2/637546_2016623115_5620_3320_107726.jpg"
+            },
+            "text": {
+                "headline": "Jay Chou's Bedtime Stories",
+                "text": "All music composed by Jay Chou. Track No.4 is inspired based on a piano improv piece by Jay's daughter Hathaway"
+            }
+        }
+    ]
+}
