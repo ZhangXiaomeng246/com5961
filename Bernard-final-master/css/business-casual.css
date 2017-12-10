@@ -1,0 +1,143 @@
+/*!
+ * Start Bootstrap - Business Casual (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */
+
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url('../img/bg2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "SourceSansPro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.tagline-upper {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.tagline-lower {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+.tagline-lower2 {
+  font-size: 1.0rem;
+  line-height: 2;
+  color: rgba(160, 160, 160, 1);
+}
+/*字体大小和行距*/
+.text-color {
+  color: rgba(94, 213, 209, 0.9);
+}
+.text-gray {
+  color: rgba(120, 120, 130, 1);
+}
+.text-expanded {
+  letter-spacing: 2px;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.text-shadow2 {
+  text-shadow: 1px 1px 2px rgba(94, 213, 209, 0.5);
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.f-color {
+  font-color: rgba(94, 213, 209, 0.5);
+}
+
+.bg-faded {
+  background-color: rgba(232, 232, 232, 0.4);
+}
+.bg-faded-gray {
+  background-color: rgba(100, 100, 100, 0.1);
+}
+.bg-faded-title {
+  background-color: rgba(230, 230, 230, 0.8);
+}
+.bg-faded-color {
+  background-color: rgba(94, 213, 209, 0.9);
+}
+
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+hr.divider {
+  border-color: #292b2c;
+  max-width: 250px;
+}
+
+.map-container iframe {
+  pointer-events: none;
+}
+
+.map-container iframe.clicked {
+  pointer-events: auto;
+}
+
+.div-intro {
+  width: 100%;
+}
+
+.img-intro {
+  width: 30%;
+}
+
+.a-alt > div {
+  width: 100%;
+  height: 100%;
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:1;
+  display: none;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.a-alt:hover > div {
+  display: block;
+}
+
+#wrapper {display:table;width:100%;height:100%;margin:0 auto;}
+#cell{display:table-cell; vertical-align:middle;}
+
+.area {
+  width: 100%;
+}
+
+.rightarea {
+  float: left;
+  width: 50%;
+}
+
+.leftarea {
+  float: left;
+  width: 50%;
+}
+.leftarea {
+  float: right;
+  width: 50%;
+}
+.textcenter {
+  text-align: center;
+  position: relative;
+  top:50%;
+  transform:translateY(-50%);
+}
